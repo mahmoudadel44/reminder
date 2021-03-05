@@ -1,0 +1,13 @@
+
+@media (max-width: 991.98px) {
+  .form{
+    width: 98%;
+   }
+   .form p{
+     font-size: 34px;
+   }
+   .reminderHeader{
+     font-size: 34px;
+   }
+
+}
