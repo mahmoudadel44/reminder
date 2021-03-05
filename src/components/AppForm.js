@@ -65,6 +65,7 @@ export class AppForm extends Component {
         <img
           src={logo}
           style={{ width: "25%", display: "block", margin: "10px" }}
+          alt="logo"
         />
         <Paragraph>What Should You Do ?</Paragraph>
 
